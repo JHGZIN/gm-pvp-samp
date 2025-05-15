@@ -1,0 +1,32 @@
+../modulos/admin/commands.inc(1035) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "a"
+../modulos/admin/commands.inc(803) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "aa"
+../modulos/admin/commands.inc(1067) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "av"
+../modulos/admin/commands.inc(191) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "car"
+../modulos/admin/commands.inc(1133) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "criarsp"
+../modulos/admin/commands.inc(1089) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "desbugar"
+../modulos/admin/commands.inc(1179) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "dsp"
+../modulos/admin/commands.inc(777) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ids"
+../modulos/admin/commands.inc(278) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ir"
+../modulos/admin/commands.inc(1211) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "irorg"
+../modulos/admin/commands.inc(424) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "irpos"
+../modulos/admin/commands.inc(262) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "lchat"
+../modulos/admin/commands.inc(1120) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "modificarorg"
+../modulos/admin/commands.inc(560) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "reviver"
+../modulos/admin/commands.inc(7) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setadmin"
+../modulos/admin/commands.inc(706) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setarma"
+../modulos/admin/commands.inc(230) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setcoins"
+../modulos/admin/commands.inc(438) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setcolete"
+../modulos/admin/commands.inc(635) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setlevel"
+../modulos/admin/commands.inc(370) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setlider"
+../modulos/admin/commands.inc(604) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setmoney"
+../modulos/admin/commands.inc(667) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setskin"
+../modulos/admin/commands.inc(497) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "setvida"
+../modulos/admin/commands.inc(744) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "tadm"
+../modulos/admin/commands.inc(324) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "trazer"
+../modulos/admin/commands.inc(116) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "tv"
+../modulos/admin/commands.inc(155) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "tvoff"
+../modulos/admin/commands.inc(155) -- (1235) : îøèáêà 013: îòñóòñòâóåò òî÷êà âõîäà (íåò public-ôóíêöèé)
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:1.
