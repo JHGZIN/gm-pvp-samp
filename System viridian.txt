@@ -1,3 +1,0 @@
-System viridian
-
-- Criacao de sala 1x1, 4x4 e todos contra todos. tambem e possivel 
