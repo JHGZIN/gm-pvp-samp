@@ -1,1 +1,0 @@
-Gamemode viridian pvp
